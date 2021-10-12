@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Tested in <browser>.
+Tested in [what browser did you use?].
 
 ## Steps to reproduce
 1. Go to ' '
