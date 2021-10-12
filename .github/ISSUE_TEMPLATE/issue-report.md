@@ -1,13 +1,10 @@
 ---
 name: Issue report
 about: Create a report to help us improve Stashh!
-title: Enter a brief, but descriptive title for the issue
-labels: ''
-assignees: ''
 
 ---
 
-Tested in [what browser did you use?].
+Tested in (Chrome, Safari, Edge, Firefox, etc.): 
 
 ## Steps to reproduce
 1. Go to ' '
