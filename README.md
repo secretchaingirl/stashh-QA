@@ -7,6 +7,7 @@ Thanks for agreeing to help test out the platform in the early stages of Stashh.
 ## Resources
 - Stashh mainnet launch page: https://stashh.co
 - Deployed marketplace for Alpha Testing: https://devops-deploy.azurewebsites.net
+- Issue reporting template: [issue-report.md](.github/ISSUE_TEMPLATE/issue-report.md)
 
 
 ## Getting Started
