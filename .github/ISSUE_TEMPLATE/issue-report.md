@@ -11,6 +11,9 @@ Tested in (Chrome, Safari, Edge, Firefox, etc.):
 2. Click on ' '
 3. etc.
 
+## Reproducibility
+Can you make the bug happen again if you repeat the steps above?
+
 ## Issue:
 Describe the issue you encountered. 
 
