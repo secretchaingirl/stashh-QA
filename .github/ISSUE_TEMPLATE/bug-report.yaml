@@ -1,6 +1,7 @@
 name: Issue Report
 description: Report a Problem with Stashh
 labels: ["needs-triage"]
+title: "[Issue]"
 body:
   - type: markdown
     attributes:
