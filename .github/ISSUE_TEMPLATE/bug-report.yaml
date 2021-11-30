@@ -14,7 +14,6 @@ body:
         1. Click on something
         2. Click somewhere else
         3. Popup appears
-      value: somthig
     validations:
       required: true
   - type: textarea
@@ -22,8 +21,7 @@ body:
     attributes:
       label: Issue
       description: Please describe the problem
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      placeholder: An error message was shown and I could not click the button
     validations:
       required: true
   - type: textarea
@@ -31,8 +29,7 @@ body:
     attributes:
       label: Expected Behavior
       description: What were you expecting to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      placeholder: Clicking the button should have added a new column
     validations:
       required: true
   - type: dropdown
