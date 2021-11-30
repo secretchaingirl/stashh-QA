@@ -1,6 +1,6 @@
 name: Feature Request
 description: Request a new feature in Stashh
-labels: ["needs-triage"]
+labels: ["enhancement","needs-triage"]
 title: "[Request]"
 body:
   - type: textarea
