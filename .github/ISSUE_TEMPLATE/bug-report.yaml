@@ -35,9 +35,9 @@ body:
       label: Reproducibility
       description: Are you able to make this happen over and over?
       options:
-        - Yes
+        - "Yes"
         - Sometimes
-        - No
+        - "No"
     validations:
       required: true
   - type: dropdown
