@@ -32,6 +32,12 @@ body:
       placeholder: Clicking the button should have added a new column
     validations:
       required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Error/Exception
+      description: Please paste any errors or relevant console logs here. This will be automatically formatted, so no need for backticks.
+      render: text
   - type: dropdown
     id: reproducibility
     attributes:
@@ -43,12 +49,6 @@ body:
         - No, I could only make it happen once
     validations:
       required: true
-  - type: textarea
-    id: logs
-    attributes:
-      label: Error/Exception
-      description: Please paste any errors or relevant console logs here. This will be automatically formatted, so no need for backticks.
-      render: text
   - type: dropdown
     id: browser
     attributes:
