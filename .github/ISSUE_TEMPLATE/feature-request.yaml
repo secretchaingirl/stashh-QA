@@ -1,0 +1,21 @@
+name: Feature Request
+description: Request a new feature in Stashh
+labels: ["needs-triage"]
+title: "[Request]"
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please describe the desired feature
+      placeholder:
+    validations:
+      required: true
+  - type: textarea
+    id: justification
+    attributes:
+      label: Justification
+      description: Please explain why this feature is needed
+      placeholder: 
+    validations:
+      required: true
