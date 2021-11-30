@@ -1,5 +1,5 @@
-name: Issue Report
-description: Report a Problem with Stashh
+name: Bug Report
+description: Report a bug in Stashh
 labels: ["needs-triage"]
 title: "[Issue]"
 body:
@@ -56,3 +56,12 @@ body:
         - Other
     validations:
       required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: If you have any other comments please provide them here
+      placeholder: |
+        It would be better if a message was shown the next time this happens 
+    validations:
+      required: false
