@@ -10,7 +10,9 @@ body:
     attributes:
       label: Reproduction Steps
       description: Please provide detailed step by step account of what you did to make the bug happen
-      placeholder: Tell us what you see!
+      placeholder: 1. Click on something
+      | 2. Click somewhere else
+      | 3. Popup appears
       value: somthig
     validations:
       required: true
