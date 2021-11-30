@@ -11,7 +11,7 @@ body:
       label: Reproduction Steps
       description: Please provide detailed step by step account of what you did to make the bug happen
       placeholder: Tell us what you see!
-      value: ""
+      value: somthig
     validations:
       required: true
   - type: textarea
