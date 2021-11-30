@@ -43,7 +43,7 @@ body:
         - No, I could only make it happen once
     validations:
       required: true
-    - type: textarea
+  - type: textarea
     id: logs
     attributes:
       label: Error/Exception
