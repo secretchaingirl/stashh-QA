@@ -7,7 +7,9 @@ body:
     id: what-happened
     attributes:
       label: Reproduction Steps
-      description: Please provide detailed step by step account of what you did to make the bug happen
+      description: |
+        Please provide a detailed step by step account of what you did to make the bug happen
+        Screenshots are really helpful if you have them
       placeholder: |
         1. Click on something
         2. Click somewhere else
@@ -18,7 +20,8 @@ body:
     id: bug-behaviour
     attributes:
       label: Issue
-      description: Please describe the problem
+      description: |
+        Please describe the problem you encountered, with screenshots if possible [windows]{https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b)
       placeholder: An error message was shown and I could not click the button
     validations:
       required: true
