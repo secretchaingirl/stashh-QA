@@ -4,8 +4,6 @@ labels: ["needs-triage"]
 title: "[Issue]"
 body:
   - type: markdown
-    attributes:
-      value: Thanks for taking the time to fill out this issue report
   - type: textarea
     id: what-happened
     attributes:
