@@ -1,18 +1,17 @@
 name: Issue Report
-description: Report a Problem
-labels: ["triage"]
+description: Report a Problem with Stashh
+labels: ["needs-triage"]
 body:
   - type: markdown
     attributes:
-      value: |
-        Thanks for taking the time to fill out this issue report
+      value: Thanks for taking the time to fill out this issue report
   - type: textarea
     id: what-happened
     attributes:
       label: Reproduction Steps
       description: Please provide detailed step by step account of what you did to make the bug happen
       placeholder: Tell us what you see!
-      value: "A bug happened!"
+      value: ""
     validations:
       required: true
   - type: textarea
