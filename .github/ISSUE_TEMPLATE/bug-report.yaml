@@ -3,7 +3,6 @@ description: Report a Problem with Stashh
 labels: ["needs-triage"]
 title: "[Issue]"
 body:
-  - type: markdown
   - type: textarea
     id: what-happened
     attributes:
