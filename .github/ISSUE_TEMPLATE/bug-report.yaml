@@ -8,8 +8,7 @@ body:
     attributes:
       label: Reproduction Steps
       description: |
-        Please provide a detailed step by step account of what you did to make the bug happen
-        Screenshots are really helpful if you have them
+        Please provide a detailed step by step account of what you did to make the bug happen, with screenshots if possible
       placeholder: |
         1. Click on something
         2. Click somewhere else
